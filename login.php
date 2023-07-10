@@ -1,3 +1,5 @@
+//ログインする画面
+
 <?php
 
 error_reporting(0);

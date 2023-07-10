@@ -1,3 +1,5 @@
+//掲示板とメイン画面
+
 <?php
 
 error_reporting(0);

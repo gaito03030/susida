@@ -1,3 +1,5 @@
+//ログアウトする処理
+
 <?php
 use Random\Engine\Secure;
 session_start();
