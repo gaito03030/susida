@@ -12,11 +12,10 @@
 ただの掲示板だけではなく自分たちの点数を入力してランキング形式で表示するようにしてこと。
 
 ### 公開したアプリの URL（Store にリリースしている場合）
-https://apps.apple.com/jp/app/xxxx
 なし。
 
 ### 該当プロジェクトのリポジトリ URL（GitHub,GitLab など Git ホスティングサービスを利用されている場合）
-https://github.com/xxxx
+[https://github.com/xxxx](https://github.com/gaito03030/susida.git)
 
 ## 開発環境
 ### 開発環境
