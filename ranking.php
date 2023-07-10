@@ -16,9 +16,7 @@ GROUP BY members.id
 ORDER BY point DESC';
 $ranking = $db->query($rank);
 
-// //nameの取得
-// $name = $db->prepare('SELECT DISTINCT members.name FROM members, profile WHERE members.id=profile.member_id ');
-// $member_name = $name->query($name);
+
 
 ?>
 
