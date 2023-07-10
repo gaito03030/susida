@@ -1,4 +1,4 @@
-//登録内容を確認する画面
+
 
 <?php
 error_reporting(0);
